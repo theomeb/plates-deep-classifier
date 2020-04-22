@@ -1,5 +1,5 @@
-<h3 align="center">Technical test - ParkDepot</h3>
-<p align="center">A deep learning classifier on german plates<p>
+<h3 align="center">Technical test - ParkDepot</h4>
+<h4 align="center">A deep learning classifier on german plates<h4>
   
 ### Task
 - Detect if a plate has **1, 2 or 3 letters for the city description**
