@@ -17,6 +17,6 @@
 - A manually implemented ResNet model, following the [original paper](https://arxiv.org/abs/1512.03385)
   -  Redefinition of the residual blocks and stacks in PyTorch
 - Use of a classic SGD optimizer (`lr=1e-2, momentum=0.9, weight_decay=1e-2`)
-- Use of Google GPU capacity, hence the **Google Colab notebook**.
+- Use of Google GPU capacity, hence the **Google Colab [notebook](./ParkDepot_technical_test.ipynb)**.
 ### Results
 - High final accuracy (0.999%) on test data
