@@ -1,8 +1,8 @@
-<h3 align="center">Technical test - ParkDepot</h4>
-<h4 align="center">A deep learning classifier on german plates<h4>
+<h3 align="center">Technical test @ ParkDepot</h4>
+<h4 align="center">A deep learning classifier on German license plates :oncoming_automobile: :de:<h4>
   
 ### Task
-- Detect if a plate has **1, 2 or 3 letters for the city description**
+- Detect if a plate has **1, 2 or 3 letters for the city description** :
 - Implement a deep learning classifier
 ### Dataset
 - Real plates 
